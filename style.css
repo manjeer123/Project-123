@@ -1,0 +1,28 @@
+.heading{
+    width: 100%;
+    font-size: 35px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px blue;
+}
+.note{
+    font-size: 18px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer{
+    position: fixed;
+    color:whitesmoke;
+    bottom: 0;
+width: 100%;
+text-align: center;
+line-height: 3;
+font-size: 22px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: grey;
+}
+canvas{
+    border:5px solid grey;
+    box-shadow:5px 5px 5px whitesmoke ;
+    border-radius: 20px;
+    background-color: lightblue;
+}
